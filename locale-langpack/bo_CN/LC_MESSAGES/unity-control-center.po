@@ -1,12 +1,13 @@
 # rzdj <1046447973@qq.com>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
+# Burgess Chang <register@brsvh.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-10 09:47+0000\n"
-"Last-Translator: rzdj <1046447973@qq.com>\n"
+"PO-Revision-Date: 2020-12-12 02:12+0000\n"
+"Last-Translator: Burgess Chang <register@brsvh.org>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/unity-control-center/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid " "
 msgstr " "
@@ -38,7 +39,7 @@ msgid "%d of %d"
 msgstr ""
 
 msgid "%d x %d"
-msgstr ""
+msgstr "%d x %d"
 
 msgid "%d x %d (%s)"
 msgstr ""
@@ -50,7 +51,7 @@ msgid "%d-bit"
 msgstr "གནས་%d"
 
 msgid "%i %s %i %s"
-msgstr "\"%i %s %i %s\""
+msgstr "%i %s %i %s"
 
 msgid "%i day ago"
 msgid_plural "%i days ago"
@@ -2028,7 +2029,7 @@ msgstr ""
 "*.PPD.GZ)"
 
 msgid "Power"
-msgstr "རྩོལ་ཕྱོད།"
+msgstr "ཁ་རྒྱག་པ།"
 
 msgid "Bluetooth"
 msgstr "སོ་སྔོན།"
@@ -3596,7 +3597,7 @@ msgstr[0] "ཆུ་ཚོད།"
 msgstr[1] "ཆུ་ཚོད།"
 
 msgid "label"
-msgstr "གདོང་འཛར།"
+msgstr "label"
 
 msgid "%k:%M"
 msgstr ""
